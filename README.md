@@ -1,4 +1,4 @@
-# Metagenomics_pipeline
+# Hands-on Metagenomic Analysis Tutorial
 ![workflow](Figures/pipeline.png)
 
 ## Input data
