@@ -1,0 +1,63 @@
+qseqid,sseqid,pident,length,mismatch,gapopen,qstart,qend,qlen,sstart,send,slen,evalue,bitscore,staxids,sscinames,sskingdoms,skingdoms,sphylums
+NODE_7_length_11426_cov_103.072606,AGM61336.1,97.7,1004,23,0,11426,8415,11426,146,1149,1149,0.0,1979.0,338478.0,Macaque simian foamy virus,Viruses,Pararnavirae,Artverviricota
+NODE_318_length_3505_cov_13.758460,DAR93875.1,71.7,773,215,3,138,2447,3505,1,772,773,0.0,1170.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_475_length_2957_cov_21.342708,DAM92256.1,73.6,773,199,5,2791,473,2957,1,768,771,0.0,1097.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_868_length_2238_cov_9.180009,DAR84592.1,88.7,609,67,2,1852,32,2238,1,609,609,0.0,1087.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_1193_length_1924_cov_7.566324,DAR84581.1,81.5,593,110,0,4,1782,1924,152,744,746,0.0,999.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_2027_length_1473_cov_6.318768,DAR84573.1,84.4,488,73,2,1457,3,1473,6,493,515,8.73e-306,844.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_1970_length_1491_cov_3.898868,DAR84578.1,78.3,497,106,2,1488,4,1491,68,564,567,1.3999999999999998e-284,793.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_522_length_2822_cov_6.855009,DAR84570.1,59.1,695,272,5,2462,387,2822,2,687,700,1.14e-274,791.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_2788_length_1253_cov_2.237245,DAD57479.1,94.0,416,25,0,1249,2,1253,189,604,841,3.68e-279,786.0,38018.0,Bacteriophage sp.,Viruses,0,0
+NODE_1932_length_1504_cov_6.736510,DAR84626.1,78.8,491,103,1,1472,3,1504,3,493,516,5.9e-279,776.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_888_length_2215_cov_13.314780,DAJ14911.1,70.3,516,150,3,304,1845,2215,1,515,515,1.1499999999999999e-270,765.0,2828115.0,Myoviridae sp. ctfuG5,Viruses,Heunggongvirae,Uroviricota
+NODE_1587_length_1656_cov_17.979101,DAO41859.1,69.9,479,142,2,4,1437,1656,7,484,663,1.16e-242,692.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_1592_length_1654_cov_2.533291,DAS63983.1,72.6,438,118,2,1594,284,1654,1,437,442,2.51e-242,683.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_1671_length_1619_cov_6.948119,DAP65158.1,62.5,507,187,2,1619,108,1619,104,610,610,2.94e-224,643.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_3490_length_1099_cov_4.512720,DAN24531.1,86.8,365,48,0,4,1098,1099,465,829,903,3.21e-217,629.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_2552_length_1315_cov_4.227787,DAK41793.1,72.5,440,118,3,1313,3,1315,66,505,793,6.020000000000001e-215,622.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_3467_length_1103_cov_5.055556,DAN24504.1,80.8,364,70,0,1102,11,1103,208,571,571,3.2499999999999998e-214,609.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_1988_length_1486_cov_8.072392,DAS83438.1,76.4,394,85,3,297,1457,1486,1,393,393,4.11e-212,602.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_4756_length_911_cov_2.830935,WCR39276.1,98.7,303,4,0,1,909,911,512,814,1142,1.8e-201,593.0,2989723.0,pineapple secovirus B,Viruses,Orthornavirae,Pisuviricota
+NODE_977_length_2122_cov_4.290465,DAN24500.1,56.7,594,210,11,1722,40,2122,1,580,580,3.8600000000000005e-200,587.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_3826_length_1043_cov_5.039337,DAR84594.1,83.1,344,57,1,13,1041,1043,402,745,821,3.02e-190,556.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_969_length_2129_cov_7.384990,DAE86220.1,83.1,319,54,0,1078,122,2129,1,319,319,3.27e-187,544.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_315_length_3521_cov_15.322300,WWU04525.1,54.3,503,209,7,1975,3453,3521,4,495,504,1.4800000000000003e-163,506.0,2027243.0,Leviviridae sp.,Viruses,Orthornavirae,Lenarviricota
+NODE_4775_length_908_cov_3.889290,DAR84718.1,79.8,302,61,0,2,907,908,1021,1322,1416,1.1e-157,486.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_3549_length_1090_cov_3.693978,DAP10399.1,70.3,340,95,5,1081,68,1090,330,665,669,1.62e-156,466.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_94_length_5661_cov_17.142013,DAD64349.1,53.0,472,214,5,3005,4405,5661,3,471,473,2.11e-141,459.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_894_length_2207_cov_10.606573,DAR84728.1,57.4,413,170,5,956,2182,2207,1,411,412,1.53e-150,455.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_4171_length_989_cov_7.058114,DAD64350.1,64.9,328,114,1,5,988,989,211,537,613,2.5500000000000002e-148,441.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_2187_length_1419_cov_13.213115,DAR84771.1,60.2,379,147,3,1152,19,1419,2,377,396,4.22e-149,441.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_3064_length_1187_cov_7.699099,DAJ14312.1,63.0,327,120,1,1185,205,1187,11,336,345,9.729999999999999e-150,438.0,2828103.0,Myoviridae sp. ctNPX13,Viruses,Heunggongvirae,Uroviricota
+NODE_334_length_3458_cov_10.502218,DAJ14919.1,61.7,339,129,1,2412,1396,3458,1,338,338,6.859999999999999e-138,432.0,2828115.0,Myoviridae sp. ctfuG5,Viruses,Heunggongvirae,Uroviricota
+NODE_4291_length_972_cov_51.275978,DAT04516.1,69.9,309,93,0,964,38,972,1,309,310,1.8300000000000003e-144,420.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_681_length_2516_cov_14.066421,DAX34736.1,64.8,327,115,0,999,19,2516,6,332,385,2.29e-134,416.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_2156_length_1430_cov_5.286031,DAM92262.1,45.5,481,244,8,5,1423,1430,61,531,554,8.17e-137,416.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_147_length_4769_cov_8.467818,DAD64323.1,58.5,357,142,2,2245,1193,4769,63,419,420,2.66e-122,401.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_3227_length_1155_cov_10.189239,DAR84603.1,59.6,356,144,0,1080,13,1155,1,356,878,2.62e-128,400.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_1498_length_1718_cov_4.939671,DAR84606.1,55.5,380,163,3,587,1717,1718,1,377,396,5.11e-131,399.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_2178_length_1423_cov_5.063893,DAO09399.1,60.3,516,158,3,3,1412,1423,54,568,639,7.11e-127,393.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_1268_length_1866_cov_19.008385,DAP00395.1,45.7,427,227,3,578,1858,1866,4,425,444,1.36e-125,389.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_1192_length_1926_cov_6.319632,DAS66867.1,53.1,461,208,7,434,1816,1926,1,453,453,4.75e-125,388.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_2939_length_1215_cov_2.386643,DAD64360.1,43.8,402,216,4,4,1203,1215,50,443,1090,2.4600000000000003e-110,359.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_3468_length_1103_cov_4.981481,DAR84583.1,48.9,364,162,4,1084,2,1103,10,352,424,1.32e-111,343.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_112_length_5316_cov_7.332315,DAO41921.1,52.6,325,148,4,4349,5314,5316,6,327,333,2.21e-101,341.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_1656_length_1623_cov_5.516171,DAR84722.1,50.8,321,151,3,13,963,1623,89,406,408,2.94e-102,325.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_2558_length_1313_cov_3.609223,DAN23959.1,48.8,371,186,3,1112,6,1313,6,374,664,4.1900000000000004e-97,316.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_4026_length_1010_cov_5.852090,DAS82003.1,50.0,364,144,9,1008,1,1010,970,1323,1325,5.29e-93,313.0,2831613.0,Herelleviridae sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_4439_length_952_cov_7.282286,DAP65170.1,49.8,323,145,6,945,16,952,111,429,433,1.3e-94,298.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_3061_length_1189_cov_5.909173,DAR57499.1,47.7,327,161,6,7,972,1189,962,1283,1286,4.4799999999999996e-82,285.0,2831613.0,Herelleviridae sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_2440_length_1351_cov_2.511774,DAX18659.1,56.2,308,95,4,455,1306,1351,737,1028,1028,2.52e-81,282.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_846_length_2261_cov_2.853938,DAF17528.1,38.3,460,256,8,210,1550,2261,796,1240,1408,8.07e-75,277.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_965_length_2131_cov_6.815482,DAN24729.1,38.4,357,213,3,1038,2108,2131,1,350,354,5.189999999999999e-81,273.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_2410_length_1358_cov_3.424668,DAY41559.1,37.7,382,231,4,221,1357,1358,24,401,489,6.209999999999999e-82,272.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_1549_length_1689_cov_7.601737,DAX63094.1,40.6,347,193,4,1048,20,1689,8,345,346,5.83e-79,263.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_319_length_3504_cov_9.890867,DAT11764.1,36.8,345,191,9,2245,1232,3504,7,331,385,3.85e-55,209.0,2831613.0,Herelleviridae sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_251_length_3836_cov_18.669593,DAN24789.1,42.3,404,220,7,2535,1342,3836,3,399,401,6.039999999999999e-54,206.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_224_length_3977_cov_9.235385,WKV33426.1,38.2,348,183,10,2711,3679,3977,90,430,548,2.2e-51,203.0,2585031.0,Riboviria sp.,Viruses,0,0
+NODE_3142_length_1170_cov_7.108875,DAJ34092.1,34.5,371,223,8,1110,1,1170,887,1238,1339,2.17e-51,197.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_2691_length_1277_cov_5.957500,DAR84770.1,33.2,313,201,4,1202,273,1277,1,308,308,1.79e-50,184.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_1401_length_1775_cov_3.703180,AVX53557.1,30.3,455,251,11,1589,258,1775,50,449,551,4.38e-44,177.0,2161795.0,Marmot picobirnavirus,Viruses,Orthornavirae,Pisuviricota
+NODE_939_length_2159_cov_3.637368,DAK89123.1,23.2,837,488,19,2158,2,2159,123,922,954,4.4400000000000004e-32,147.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_2260_length_1402_cov_4.866415,DAR84588.1,48.1,312,128,1,1391,558,1402,136,447,448,5.62e-25,119.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
+NODE_4041_length_1008_cov_22.045113,DAF17751.1,27.1,354,206,13,10,975,1008,64,397,398,5.36e-13,82.0,2832643.0,Caudoviricetes sp.,Viruses,Heunggongvirae,Uroviricota
