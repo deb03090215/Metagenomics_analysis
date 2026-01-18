@@ -178,13 +178,11 @@ Users are encouraged to customize taxonomy filters to match their specific study
 Both BLASTn and DIAMOND provide complementary information for viral identification, but their results may not always fully overlap.
 To obtain a comprehensive view of viral candidates, the parsed outputs from Step 5 are compared and jointly interpreted.
 
-### Rationale
-
+Rationale:
 * **BLASTn** is more reliable for detecting closely related viruses with high nucleotide similarity.
 * **DIAMOND (blastx)** is more sensitive for identifying divergent or novel viruses through protein-level conservation.
 
 As a result:
-
 * Some viral candidates may be detected by **both** methods.
 * Others may be detected **only by DIAMOND**, especially in the case of highly divergent viruses.
 * BLASTn-only hits may represent conserved genomic regions or closely related reference strains.
